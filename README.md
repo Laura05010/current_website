@@ -1,5 +1,5 @@
-<div align="center"  style="margin-bottom:30px">
-    <img src="src/images/My_name.png" alt="Fresh Logo" width='60'/>
+<div align="center">
+    <img src="src/images/My_name.png" alt="Laura Madrid's Logo" width='200'/>
 </div>
 
 # This is my personal website
@@ -9,4 +9,4 @@ Working on this site allowed me to expand my knowledge in Gatsby, learn to query
 
 I would like to thank the author of the gatsby theme, [Mishaal Shah](https://github.com/mishal23).
 
-I would also like to thank [Kyrel Jerome](https://github.com/KyrelJerome) for teaching about how queries work so that I could be succesful in uploading images for the site, and thank [Arnav Bansal](https://github.com/lunaroyster) for teaching me to succesfully upload the website.
+I would also like to thank [Kyrel Jerome](https://github.com/KyrelJerome) for teaching me about how queries work so that I could be succesful in uploading images for the site, and thank [Arnav Bansal](https://github.com/lunaroyster) for teaching me to succesfully upload the website.
