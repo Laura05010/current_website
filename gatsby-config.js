@@ -1,23 +1,16 @@
 module.exports = {
   siteMetadata: {
     title: `Laura \n Madrid`,
-    description: `GatsbyJS starter blog with the Fresh theme.`,
+    description: `Welcome to Laura M Madrid's personal website.`,
     author: `@laura05010`,
-    siteUrl: `https://gatsby-starter-fresh.netlify.app`,
+    siteUrl: `https://www.lauramadrid.ca`,
     keywords: [
       "laura05010",
       "Laura M Madrid",
-      "Gatsby",
-      "Fresh",
-      "themes",
-      "blog",
-      "PWA",  
-      "Google Analytics", 
-      "markdown", 
-      "code highlighting",
-      "SEO",
-      "social media",
-      "sitemap",
+      "Laura Maldonado",
+      "Laura",
+      "Blog",
+      "Art"
     ],
     social: {
       twitter: ``,
