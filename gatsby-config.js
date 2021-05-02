@@ -11,15 +11,13 @@ module.exports = {
       "Fresh",
       "themes",
       "blog",
-      "PWA", 
-      "disqus", 
+      "PWA",  
       "Google Analytics", 
       "markdown", 
       "code highlighting",
       "SEO",
       "social media",
       "sitemap",
-      "contact form"
     ],
     social: {
       twitter: ``,
@@ -45,8 +43,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Fresh Theme`,
-        short_name: `fresh`,
+        name: `Laura Madrid: Personal Website`,
+        short_name: `Laura Madrid`,
         start_url: `/`,
         background_color: `#2d2a2a`,
         theme_color: `#2d2a2a`,

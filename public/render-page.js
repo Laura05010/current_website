@@ -112,8 +112,8 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Fresh Theme",
-    "short_name": "fresh",
+    "name": "Laura Madrid: Personal Website",
+    "short_name": "Laura Madrid",
     "start_url": "/",
     "background_color": "#2d2a2a",
     "theme_color": "#2d2a2a",

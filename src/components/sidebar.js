@@ -24,10 +24,8 @@ const SideBar = () => {
     `
   )
   const github = "https://github.com/Laura05010"
-  // const email = "mailto:" + site.siteMetadata.social.email
   const email = "mailto:lcmmadrid5@gmail.com"
   const linkedin = "https://www.linkedin.com/in/laurammadrid/"
-  // const resume = "/resume"
 
   return (
   <aside className="sidebar">
@@ -41,11 +39,9 @@ const SideBar = () => {
       <li className="menu-items"><Link to="/" className="menu-links" activeClassName="active">About</Link></li>
       {/* To use the markdown version instead... */}
       <li className="menu-items"><Link to="/projects" className="menu-links" activeClassName="active">Projects</Link></li>
-      {/* <li className="menu-items"><Link to="projects.js" className="menu-links" activeClassName="active">Projects</Link></li> */}
       <li className="menu-items"><Link to="/notes" className="menu-links" activeClassName="active">Notes</Link></li>
       <li className="menu-items"><Link to="/art" className="menu-links" activeClassName="active">Art</Link></li>
       <li className="menu-items"><Link to="/perspective" className="menu-links" activeClassName="active">Perspective</Link></li>
-      {/* <li className="menu-items"><Link to="/contact" className="menu-links" activeClassName="active">Contact</Link></li> */}
     </menu>
 
     {/* For the menu to display on mobile */}
@@ -53,7 +49,6 @@ const SideBar = () => {
       <Link to="/" className="mob-menu-items" activeClassName="active"><button className="navbtn">About</button></Link>
       {/* To use the markdown version instead... */}
       <Link to="/projects" className="mob-menu-items" activeClassName="active"><button className="navbtn">Projects</button></Link>
-      {/* <Link to="projects.js" className="mob-menu-items" activeClassName="active"><button className="navbtn">Projects</button></Link> */}
       <Link to="/notes" className="mob-menu-items" activeClassName="active"><button className="navbtn">Notes</button></Link>
       <Link to="/art" className="mob-menu-items" activeClassName="active"><button className="navbtn">Art</button></Link>
       <Link to="/perspective" className="mob-menu-items" activeClassName="active"><button className="navbtn">Perspective</button></Link>
