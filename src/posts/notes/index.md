@@ -10,7 +10,7 @@ keywords: notes, university, computer science
 
 When I first started I found it rough and overwhelming at times but had great people to help me understand and get to where I am today.
 
-I hope that these resources help anyone succeed in these topics. 
+I hope that these resources help anyone succeed in these topics.
 
 # Computer Science
 > ## [CSC148: Introduction to Computer Science](https://www.notion.so/CSC148-Introduction-to-Computer-Science-14dda0ca98684059a3a95f48c12677f6)
@@ -32,4 +32,6 @@ I hope that these resources help anyone succeed in these topics.
 > There is lots of homework so try to stay on top of it.
 > Watching [Prof Leonard's](https://www.youtube.com/watch?v=1H6HrfX_qCA&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-&index=24) playlist helps understand the why behind each concept better.
 
-
+# Side Courses
+> ## [iOS & Swift: The Complete iOS App Development Bootcamp](https://frost-persimmon-c81.notion.site/Swift-App-Development-2db9da941b78454f929bce012c8a3da6)
+> I started this Udemy course because I want to build good foundations in Swift. Before Starting university I was working on an app by using the "Frankenstein" approach. This meant that I looked for how to build my idea through tutorials and then pieced it together somehow. So far I have really enjoyed the short lessons of the course and the constant learning challenges. I hope that these notes help you learn Swift and perhaps get on your passion project journey as well!

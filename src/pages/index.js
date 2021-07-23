@@ -17,12 +17,12 @@ const IndexPage = () => {
           </header>
           <div className="page-content">
           <h2>Thanks for visiting my site!</h2>
-    	<p>My name is <b>Laura</b> and I am currently a second-year student at the <b>University of Toronto</b> pursuing a Specialist degree in <b>Computer Science</b> and a minor in <b>Business, Science and Entrepreneurship.</b></p>
-      <p>I have a passion for design, innovation, and helping others! I aspire towards a career where I can work on projects that will improve lives and have the opportunity to positively impact those around me.</p>
-      <p>Coding, learning languages, creating and learning from others makes me very happy. I aspire towards a career where I can work on projects that will bring a positive impact on our society!</p>
+    	<p>My name is <b>Laura</b> and I am currently a second-year/third-year student at the <b>University of Toronto</b> pursuing a Specialist degree in <b>Computer Science.</b></p>
+      <p>I have a passion for design, innovation, and helping others! I aspire towards a career where I can work on projects give me the opportunity to positively impact those around me.</p>
+      <p>Coding, learning languages, creating and learning from others makes me very happy. I aspire towards a career where I can work on projects that will bring a positive impact to those around me. </p>
       <blockquote>
-        <p> "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</p> 
-        <p>- Tony Robbins</p>
+        <p> "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</p>
+        <p> - Tony Robbins</p>
       </blockquote>
       <p>When I am not on the computer, I enjoy meditating, drawing, and spending time with my family & friends.</p>
       <br></br>
