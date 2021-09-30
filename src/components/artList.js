@@ -13,7 +13,7 @@ const data = useStaticQuery(
             title
             image{
               childImageSharp{
-                fluid(maxHeight:500, maxWidth: 1000, quality:100){
+                fluid(maxHeight:600, maxWidth: 1000, quality:100){
                   ...GatsbyImageSharpFluid
                   ...GatsbyImageSharpFluidLimitPresentationSize
                 }
