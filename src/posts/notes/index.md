@@ -8,9 +8,11 @@ keywords: notes, university, computer science
 
 ## **Keep your head up and you got this !!**
 
-When I first started I found it rough and overwhelming at times but had great people to help me understand and get to where I am today.
+I'm incredibly grateful for everyone who helped me find clarity when I was unsure of topics, I hope that some of these notes may help you as well.
 
-I hope that these resources help anyone succeed in these topics.
+May resources help anyone succeed in these topics.
+
+Ps. More courses & tips coming soon 😆
 
 # Computer Science
 > ## [CSC148: Introduction to Computer Science](https://www.notion.so/CSC148-Introduction-to-Computer-Science-14dda0ca98684059a3a95f48c12677f6)
