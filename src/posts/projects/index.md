@@ -14,7 +14,12 @@ keywords: projects, side projects
 > ## [Brain Tumor Classification](https://github.com/kworathur/CV-Capstone)
 > ### As our cumulative project for the Capstone Design course (CSC490), our team addressed the impactful issue of brain tumors. Acknowledging the time-intensive and specialized nature of manual diagnosis, our goal was to develop automatic diagnostic methods for glioma, meningioma, and pituitary tumors using Magnetic Resonance Imaging (MRI) scans. This endeavor involved tackling the challenges of a multi-class classification problem, with a focus on attempting to introduce innovative approaches to enhance the diagnostic process.
 > #### **Tools:** Python | Jupyter Notebook
-![Brain Tumor classification final poster](imgs/final_poster.png)
+> ### Model Interpretation poster
+![Brain Tumor classification: Model interpretation](imgs/brain_clasification_laura_poster.png)
+> ### Final poster
+![Brain Tumor classification model final poster](imgs/final_poster.png)
+
+
 
 ---
 

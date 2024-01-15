@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import { FaLinkedin, FaGithub, FaEnvelope, FaRegSmile} from "react-icons/fa";
 import { useStaticQuery, graphql } from "gatsby"
-import resumePDF from "../pages/resume/resume2021.pdf"
+import resumePDF from "../pages/resume/resume.pdf"
 
 
 
