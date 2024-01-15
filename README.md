@@ -1,8 +1,9 @@
 <div align="center">
-    <img src="src/images/My_name.png" alt="Laura Madrid's Logo" width='200'/>
+    <img src="src/images/signature.png" alt="Laura Madrid's Logo" width='200'/>
 </div>
 
 # This is my personal website
+
 I used the Fresh Theme for [Gatsby](https://github.com/mishal23/gatsby-starter-fresh) and changed it up to include a blog, a page for my art projects and much more!
 
 Working on this site allowed me to expand my knowledge in Gatsby, learn to query images, and definitely become a pro at markdown!
