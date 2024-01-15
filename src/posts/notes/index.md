@@ -2,7 +2,6 @@
 title:  "Notes 💡"
 description: "Laura's course notes"
 keywords: notes, university, computer science
-
 ---
 
 

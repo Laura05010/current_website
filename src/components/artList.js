@@ -12,8 +12,8 @@ const data = useStaticQuery(
           frontmatter {
             title
             image{
-              childImageSharp{
-                fluid(maxHeight:600, maxWidth: 1000, quality:100){
+              childImageSharp {
+                fluid(maxHeight: 600, maxWidth: 1000, quality: 100) {
                   ...GatsbyImageSharpFluid
                   ...GatsbyImageSharpFluidLimitPresentationSize
                 }
@@ -41,7 +41,9 @@ const data = useStaticQuery(
               <header className="header-article">
                 <h2 className="title-article">{node.frontmatter.title}</h2>
                 <div className="post-image">
-                  <Img fluid= {node.frontmatter.image.childImageSharp.fluid} />
+                  {node.frontmatter.image && node.frontmatter.image.childImageSharp && (
+                      <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+                    )}
                 </div>
               </header>
               <p>{node.frontmatter.description}</p>

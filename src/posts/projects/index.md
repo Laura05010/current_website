@@ -2,7 +2,6 @@
 title:  "Projects 🚀"
 description: "Laura's current projects"
 keywords: projects, side projects
-blog: false
 ---
 
 # Machine Learning & Computer Vision
