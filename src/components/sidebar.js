@@ -24,8 +24,8 @@ const SideBar = () => {
     `
   )
   const github = "https://github.com/Laura05010"
-  const email = "mailto:lcmmadrid5@gmail.com"
-  const linkedin = "https://www.linkedin.com/in/laurammadrid/"
+  const email = "mailto:madrid.laura@outlook.com"
+  const linkedin = "https://www.linkedin.com/in/laura-madrid/"
 
   return (
   <aside className="sidebar">
